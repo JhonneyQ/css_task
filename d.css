@@ -9,6 +9,12 @@
     color: yellow;
 }
 
-.itemsss #animal span{
-    background-color: pink;
+.itemsss .animal {
+    background-color: blue;
+}
+.itemsss div .animal{
+    color: blue;
+}
+.itemssss div .parag{
+    background-color: green;
 }
