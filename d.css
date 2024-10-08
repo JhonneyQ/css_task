@@ -1,0 +1,14 @@
+.items .book{
+    background-color: red;
+}
+.items #pen{
+    color: green;
+}
+
+.itemss div p {
+    color: yellow;
+}
+
+.itemsss #animal span{
+    background-color: pink;
+}

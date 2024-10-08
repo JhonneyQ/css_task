@@ -1,0 +1,36 @@
+#green{
+    
+    background-color: lightgreen;
+    border:solid red;
+    width: 75;
+    height: 100px;
+}
+
+#purple {
+    border : solid red;
+    background-color: #ddaefa;
+    width: 75;
+    height: 100px;
+    
+}
+
+#pink{
+    border:solid red;
+    background-color: rgb(155, 55, 128);
+    width: 75;
+    height: 100px;
+}
+
+#brown{
+    background-color: hsl(60, 22%, 50%);
+    border:solid red;
+    width: 75;
+    height: 100px;
+}
+
+.container{
+    text-align: center;
+}
+h2{
+    color: blue;
+}
